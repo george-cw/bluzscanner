@@ -1,0 +1,2 @@
+include ':app', ':bluzscanner'
+rootProject.name='BluzScanDemo'

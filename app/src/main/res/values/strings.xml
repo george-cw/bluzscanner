@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluzScanDemo</string>
+
+    <string name="location_rationale">Ask for Access Fine Location Permission</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
